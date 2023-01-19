@@ -7,8 +7,10 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SafeArea(
-        child: Container(
-          child: Text("onboarding text"),
+        child: Center(
+          child: Container(
+            child: Image.asset("assets/bloodbank.png"),
+          ),
         ),
       ),
     );
