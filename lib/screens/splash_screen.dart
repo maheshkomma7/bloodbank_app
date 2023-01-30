@@ -8,8 +8,14 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
         child: Center(
+<<<<<<< HEAD:lib/screens/hello.dart
           child: Container(
           child: Image.asset("assets/bloodbank.png"),),
+=======
+          child: Image.asset(
+            "assets/bloodbank.png",
+          ),
+>>>>>>> 847a8a4a81cb937df6811c27018e6bb2b87c68a6:lib/screens/splash_screen.dart
         ),
       ),
     );
