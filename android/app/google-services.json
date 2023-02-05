@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929254290761",
+    "project_id": "financial-managememt-app",
+    "storage_bucket": "financial-managememt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929254290761:android:f3505ed4c8eedf01ac9698",
+        "android_client_info": {
+          "package_name": "com.example.bloodbank_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929254290761-8jpmf4bfbp23784lgesatckr6duovacr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTkicD1m3HWC6dRovQiJ85UyclYe9sWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929254290761-8jpmf4bfbp23784lgesatckr6duovacr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
